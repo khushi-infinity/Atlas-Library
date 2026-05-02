@@ -18,10 +18,8 @@ A **Spring Boot** web application that manages **Authors** and **Books** with JP
 10. [Manual testing (web UI)](#manual-testing-web-ui)
 11. [Automated tests](#automated-tests)
 12. [Screenshots](#screenshots)
-13. [Rubric & grading criteria mapping](#rubric--grading-criteria-mapping)
-14. [Documentation & submission (PDF + GitHub)](#documentation--submission-pdf--github)
-15. [Challenges & design notes](#challenges--design-notes)
-16. [License](#license)
+13. [Challenges & design notes](#challenges--design-notes)
+14. [License](#license)
 
 ---
 
